@@ -1,2 +1,2 @@
 # arduino
-This repository contains ARDUINO programs and libraries
+This repository contains a collection of Arduino programs and libraries.
